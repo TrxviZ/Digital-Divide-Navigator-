@@ -199,7 +199,7 @@ The user provides their personal, academic, or application-related information i
 
 ### Step 2: Analyse the Form
 
-The application accepts a publicly accessible form URL (we used for https://kissing-occurred-brooks-preservation.trycloudflare.com )and analyses its HTML structure to identify fields, labels, and required information.
+The application accepts a publicly accessible form URL (we used for https://knowing-assurance-ips-cup.trycloudflare.com )and analyses its HTML structure to identify fields, labels, and required information.
 
 ### Step 3: AI Information Extraction
 
